@@ -1,3 +1,3 @@
 export default function Home() {
-  return <h1>Головна сторінка WicNIC</h1>;
+  return <h1>Головна сторінка і лого WicNIC</h1>;
 }
